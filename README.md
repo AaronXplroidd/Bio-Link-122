@@ -1,3 +1,5 @@
 *This Source was maked by DitzDev on github* 
-Dan juga Dikembangkan Oleh **Legendryou_26 on Instagram.**
-Flooww donggg,nanti di folbek hehehe.
+
+Dan juga Dikembangkan Oleh:
+
+*Legendryou_26 on Instagram,Or AaronXplroidd on Github.*
