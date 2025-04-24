@@ -1,3 +1,3 @@
-*This Bio link was credited by DitzDev on github*
-Dikembangkan Oleh **Legendryou_26 on Instagram.**
+*This Source was maked by DitzDev on github* 
+Dan juga Dikembangkan Oleh **Legendryou_26 on Instagram.**
 Flooww donggg,nanti di folbek hehehe.
