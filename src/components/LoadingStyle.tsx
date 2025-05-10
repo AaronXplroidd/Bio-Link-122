@@ -1,5 +1,5 @@
 import React, { useEffect, useState, useRef } from 'react';
-import '../styles/Loadingscreen.css';
+import '../styles/LoadingStyle.css';
 
 interface LoadingScreenProps {
   progress?: number;
@@ -119,4 +119,4 @@ const LoadingScreen: React.FC<LoadingScreenProps> = ({
   );
 };
 
-export default Loadingscreen;
+export default LoadingStyle;
