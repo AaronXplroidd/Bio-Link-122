@@ -1,5 +1,5 @@
 import React, { useEffect, useState, useRef } from 'react';
-import '../styles/LoadingScreen.css';
+import '../styles/Loadingscreen.css';
 
 interface LoadingScreenProps {
   progress?: number;
