@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 import Background from './components/Background';
-import LoadingScreen from './components/LoadingScreen';
+import LoadingStyle from './components/LoadingStyle';
 import LinkSection from './components/LinkSection';
 import './styles/global.css';
 import profile from "./assets/images/profile.jpg"
@@ -31,7 +31,7 @@ const App = () => {
     <div className="app">
       <Background />
 
-      {loading && <LoadingScreen onLoadingComplete={handleLoadingComplete} />}
+      {loading && <LoadingStyle onLoadingComplete={handleLoadingComplete} />}
 
       <div className={`container ${!loading ? 'fade-in' : ''}`}>
         <div className="profile">
